@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Winds-Up',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.winds-up.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Windguru',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://www.windguru.cz/?set=275411',
 		},
 		{
 			id: '5',
